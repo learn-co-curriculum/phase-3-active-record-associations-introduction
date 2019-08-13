@@ -1,11 +1,5 @@
 # Introduction to Active Record Associations
 
-While you might be in the early days of writing code and learning how to
-program, you have some assets on your side: a positive attitude, a community you
-can ask for help, and a history of solving problems on your own. In this module,
-we're going to give you  some language and a framework for the strategies that
-you should embrace as you start solving problems in code.
-
 Previously, we worked through object-relational mapping and building Ruby
 classes that can represent SQL records. Active Record is like an automation and
 simplification of those concepts.
