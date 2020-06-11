@@ -1,10 +1,6 @@
 ---
 :lessons:
-- :id: 6510
-  :course_id: 328
-  :canvas_url: https://learning.flatironschool.com/courses/328/pages/active-record-associations-introduction
-  :type: page
-- :id: 6910
+- :id: 6912
   :course_id: 329
-  :canvas_url: https://learning.flatironschool.com/courses/329/pages/active-record-associations-introduction
+  :canvas_url: https://learning.flatironschool.com/courses/329/pages/active-record-associations-introduction-2
   :type: page
