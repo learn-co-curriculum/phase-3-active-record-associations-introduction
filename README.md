@@ -18,6 +18,6 @@ We'll cover topics that will include answers to these questions:
 Having a solid understanding of Active Record will make persisting data much
 easier. This will replace the need for a lot of the custom code we wrote in when
 creating ORMs. We’ll cover working with models, setting them up, and building
-associations between them. Over the next several lessons,we'll explain Active
-Record and work with through a few labs that will help reinforce these concepts.
+associations between them. Over the next several lessons, we'll explain Active
+Record and work through a few labs that will help reinforce these concepts.
 
