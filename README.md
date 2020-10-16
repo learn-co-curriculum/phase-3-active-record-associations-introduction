@@ -4,7 +4,7 @@ Previously, we worked through object-relational mapping and building Ruby
 classes that can represent SQL records. Active Record is like an automation and
 simplification of those concepts.
 
-Active Record is the interface that gives you to link the database to your
+Active Record is the interface that gives you the tools to link a database to your
 application. It lets you structure your data models in a logical and nearly
 plain-English way.
 
