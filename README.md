@@ -17,6 +17,6 @@ We'll cover topics that will include answers to these questions:
 - How do you use association macros?
 
 Having a solid understanding of Active Record will make working with data much
-easier. This will replace the need for a lot of the custom code we wrote in when
+easier. This will replace the need for a lot of the custom code we wrote when
 creating ORMs. We’ll cover working with models, setting them up, and building
 associations between them.
